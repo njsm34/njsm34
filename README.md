@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jagan
-- 👀 I’m interested in Webdevlopment material
+- 👀 I’m interested in Webdevlopment.
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on all related to Webpages and beyond.
 - 📫 How to reach me on twitter @njsm34
